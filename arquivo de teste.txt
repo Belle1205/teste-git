@@ -1,1 +1,3 @@
-Arquivo destinado teste enquanto aprendo sobre git e github
+Arquivo destinado teste enquanto aprendo sobre git e GitHub
+
+Alterando para a versão 2
